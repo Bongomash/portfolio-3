@@ -1,1 +1,1 @@
-console.log("fordnite")
+'use strict';
